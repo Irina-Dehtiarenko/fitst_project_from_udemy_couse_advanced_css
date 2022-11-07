@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Landing page for project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irina-Dehtiarenko/fitst_project_from_udemy_couse_advanced_css.git"
+  },
+  "author": "Iryna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irina-Dehtiarenko/fitst_project_from_udemy_couse_advanced_css/issues"
+  },
+  "homepage": "https://github.com/Irina-Dehtiarenko/fitst_project_from_udemy_couse_advanced_css#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
